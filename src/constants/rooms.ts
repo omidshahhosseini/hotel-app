@@ -1,0 +1,8 @@
+export const ROOMS = {
+  MAX_ROOMS: 8,
+  MIN_ADULTS: 1,
+  MAX_ADULTS: 5,
+  MIN_CHILDREN: 0,
+  MAX_CHILDREN: 3,
+  MAX_PEOPLE: 5,
+};
